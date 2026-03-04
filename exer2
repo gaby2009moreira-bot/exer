@@ -1,6 +1,6 @@
 using System;
 
-namespace exer1
+namespace exer2
 {
     class Program
     {
@@ -15,7 +15,6 @@ namespace exer1
 
             Console.WriteLine("Valor em reais: R$ " + valorEmReais.ToString("F2"));
 
-            Console.ReadKey();
         }
     }
 }
